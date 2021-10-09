@@ -1,0 +1,17 @@
+.map-container {   
+    width: 900px;
+    height: 550px;
+    margin: -2rem auto;
+    border: 1px solid turquoise;
+
+}
+
+.popup {
+    width: 280px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+    padding-top: 10px;
+}
